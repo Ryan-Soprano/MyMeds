@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-cloud-vision # CLoud Vision Image Processing AI
+google-cloud-logging
+google-cloud-storage
+google-cloud-firestore  # Firestore database
+google-generativeai # Gemini AI
+firebase-admin  # Firebase Authentication
+passlib==1.7.4  # Ensure compatibility
+bcrypt==4.0.1  # Compatible with passlib 1.7.4
+python-jose
+python-multipart
+fastapi[all]
+slowapi  # Rate limiting for security
+requests  # For API calls
+pytest  # For testing
+cryptography  # For encryption

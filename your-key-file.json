@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crested-pursuit-450819-q4",
+  "private_key_id": "fc71519f968f9630af13df9ecd278389792653e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6cF26gwRgT8pr\n5Ivm3a3R69FXacrZ3Xeq3bVvqv1DGiRHdHizHZMr6ocPW6S/OzaBYWjSvf0k49Lk\naNQzCIdIJ8/a8dyZiQpIHcNXiK60neXlsPM/miMFA+Dtw0dZhVqmcR3sxZcjJmkG\naK16wytkux+pekUbP31ok6QNDUSSgWQyODYmkTD9SN2N2fSrMye7KhXkftB/iWSn\n52i+PyUglXuwquO7OEVrHurfhw11p2hmJC2uP2vlsH6zsA+N2dmLHhKhkRkkQilJ\n78xr90Ie/biDzjjBUx0/Zxytpeu2I+WArRmUgXC4XBk0GE6akJ2YyeUGHDcQKA5F\nM6Ax9SbxAgMBAAECggEAL/NJb/hVbk3nQmOYBcsa8wQjJcfMR8dZiUUXbn58P79f\n+E7A4lRnbyKVFQKddx+MD6+Vbao2ir/blCpP9UYqwQiYQXf2JDjmP5EEFiXNxR9d\nKvudPEzw18/dEFmqpqARJgCu0SAqlHxDA8Z1Y78BkJk99fFAB9eG8hgS19aDPeiA\nExqMgwKRMgzEA3j1e/f/RO1Rs4eTFozDdn8ytVDei2/BeQmH/4kt4wqpFxDmtjUD\nS0G1dXkCs4msMv28ColqWu6FdyKgMFu22u8wyiBbKW0dqdgLNELJkNRID9NrTzcL\noOv1dWpjcKcNkTx0QAIoHRYeF1O6n+EaJhki7iaMbwKBgQDbfGIl4KgwM44cqjpv\nxX1SR+14qzIjN95BCEfoh2gzbhSs32s1e4qhQBlP2Fg22Vtj0mJxufHc3iOtRGbC\nZ+iK4ciyyIXW61mCEFQKjgBani0wip36Uu3slS121bSnPdwccf+xdcicdUXCOykK\nX3RmM4nOZKq+3WejJHalFRebHwKBgQDZdI5/D3upgFG8UlIZb69rvk0+M/EL3lHb\nVSltRF7yTNaXM82YlvnLcM9GwSLrT13g/N9RJmxu4Dzw9GrEd85gbwOFSpCQ099k\nl+blaNkjoq3ug+d4YEkrx77Heb1aZD391frCt8Xipuj0c5l8QIqT2xrn2klpgJYW\n3LzQO58L7wKBgQDXP9TBcOGA5A6q7gcBNp0A5KlvffVdtJyzCnv6/1Chn4OHRlTN\nzqrWGRa5x2I76E5IRztkbQdVpEU416wvW9gi2+sH6r/XVlghxgGlmD2goR+QS2FC\n7bGII4TC1jKlEXWcL/CjCPAFAL25DmvhUFvHHyQ21WLebCQHSutQWq8b4QKBgF8x\nD+P9UiQMQTuQSdJKut8Oil/Nexq38ttx91WW1X16N4IvMjQ2+xicxI/zoiaiMrV3\n3QZ4LIWI8gSE6mwhCh3a2w6xaoGLzkIJ4RDSCiP4Ze2AnoZql/1rTk+iMkrskNqa\nnlA5BI5IhLfmFu12j3NUOf3+554gpRNTA/Cf+OrPAoGAHL6yzdpX8poXC6daE+gB\nwRDmFe4LFYLKJxHgnQ6d1Md+jDUdH4VWvTC+P3pn+tlGM0Apa+GDEx4J4ddy3Q4+\nXWkb4SjfU3IJWWLiA0c88P54P/nL9tRWD2TPvT/ZJiDaBFZTXJIC7XK9LzcdGIOm\n8FFr4897hI2IPryv3nrZjQU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mymeds-cloud-vision-api-se-303@crested-pursuit-450819-q4.iam.gserviceaccount.com",
+  "client_id": "102919151144658107713",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mymeds-cloud-vision-api-se-303%40crested-pursuit-450819-q4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

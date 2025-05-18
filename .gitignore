@@ -1,0 +1,99 @@
+# =============================
+# Environment & Secrets
+# =============================
+.env
+Backend/AI_Model/your-key-file.json
+Backend/SDK_Database/google_services.json
+Backend/secrets/
+
+# =============================
+# OS-Specific System Files
+# =============================
+.DS_Store       # macOS
+desktop.ini     # Windows
+
+# =============================
+# Node.js & JavaScript
+# =============================
+node_modules/
+npm-debug.log
+yarn-error.log
+.metro-health-check*
+*.jsbundle
+
+# =============================
+# Python: Build, Cache, Logs
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sqlite
+*.db
+*.dump
+
+# =============================
+# iOS: Xcode Build Files
+# =============================
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.xcuserstate
+*.moved-aside
+*.hmap
+*.ipa
+*.xcworkspace
+DerivedData/
+xcuserdata/
+**/.xcode.env.local
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+
+# =============================
+# Android: IntelliJ/Gradle
+# =============================
+.idea/
+.gradle/
+local.properties
+*.iml
+*.hprof
+.cxx/
+*.keystore
+!debug.keystore
+
+# =============================
+# Dependency Managers
+# =============================
+/vendor/bundle/
+**/Pods/
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# =============================
+# Build Artifacts
+# =============================
+build/
+*.bundle
+*.apk
+*.aab
+
+# =============================
+# Testing & Coverage
+# =============================
+/coverage/
+test-results/
+test-output/
+*.coveragerc
+
+# =============================
+# Docker
+# =============================
+*.pid
+*.pid.lock
