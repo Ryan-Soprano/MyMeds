@@ -1,2 +1,1 @@
-# My_Meds
 # MyMeds
